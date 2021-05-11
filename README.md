@@ -1,11 +1,11 @@
 <p align="center">
 <img src="https://github.com/DS4A-team92/food-deserts/blob/main/references/images/food-desert-cir-3.png"></img>
 </p>
+
 # Optimizing Bus Stop Farmers Markets
-
-==============================
-
 Determining mobile farmers market locations to address food deserts based on public transportation ridership.
+
+
 
 Project Organization
 ------------
