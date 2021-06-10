@@ -1,4 +1,7 @@
-pandas
-seaborn
-matplotlib
-numpy
+pandas 
+numpy 
+matplotlib 
+seaborn 
+statsmodels
+folium
+pingouin
