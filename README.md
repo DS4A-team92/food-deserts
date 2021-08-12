@@ -11,7 +11,7 @@
 	<a style="padding: 10px; text-decoration: none" href="https://voicethread.com/myvoice/thread/18127453">Pressentation</a>
 	<a style="padding: 10px; text-decoration: none" href="https://www.canva.com/design/DAEj2YL2cgE/Khqs7uOOaWtwxBzyFiCICA/view?utm_content=DAEj2YL2cgE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#2">Final-Report</a>
 </div>
--------------------------
+-----------
 
 Problem statement
 ------------
@@ -42,11 +42,11 @@ EDA
 ----
 Through our Exploratory Data Analysis (EDA), our team sought to explore potential relationships between our identified variables of interest, including health outcomes, with access to healthy food in Cook County, which includes the city of Chicago. We were also interested in exploring the differences in access to healthy food and health outcomes in highly segregated neighborhoods. While previous studies have looked at some health outcome disparities in Chicago, such as asthma, obesity, and mental health [5: interactive associated with 4], our team wanted to expand on these findings to include not only a wider range of health outcomes, but also other aspects that could affect health, such as potential patterns underlying access to and utilization of health care.
 
-####Modified Retail Food Environment Index (mRFEI)
+#### Modified Retail Food Environment Index (mRFEI)
 
 Utilizing the modified Retail Food Index(mRFEI) dataset, our team created a visualized map of census tracts within Cook County with corresponding colors indicating access to healthy food retailers. Lower scores are indicative that a census tract contains many convenience stores and fast food restaurants in comparison to the number of healthy food retailers. A zero score indicates no healthy food retailers (grocery stores or supermarkets) within the census tract.
 
-####Income and mRFEI
+#### Income and mRFEI
 
 An initial finding among the characteristics of the census tracts was the relationships of the Median Income and Proportion of the Census Tracts Living in Poverty to mRFEI. There appears to be a relationship between mRFEI and income, as median income of the census tract increases the mRFEI value increases, conversely as the proportion of those in a census tract that live in poverty increases the mRFEI values decreases. The visualization displays tracts with no healthy food options (mRFEI value of 0) are concentrated around lower median income values, where the concentration in the other plot is around tracts with lower proportions of those living in poverty. This may suggest that median income alone may not account for census tracts with lower mRFEI values. 
 
