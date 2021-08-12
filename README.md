@@ -7,11 +7,11 @@
 <h4 align="center">ANALYSIS OF FOOD ACCESS & ASSOCIATED FACTORS IN COOK COUNTY, ILLINOIS</h4>
 <div align="center" style="padding: 10px">
 	<a style="padding: 10px; text-decoration: none" href="https://foodaccessexplorer.weebly.com/"> Dashboard </a>
-	<a style="padding: 10px; text-decoration: none" href="https://drive.google.com/file/d/1FGcx0UshepKNWd5-axSaMNf0Vc0jEn0V/view?usp=sharing">Datafolio</a>
+	<a style="padding: 20px; text-decoration: none" href="https://drive.google.com/file/d/1FGcx0UshepKNWd5-axSaMNf0Vc0jEn0V/view?usp=sharing">Datafolio</a>
 	<a style="padding: 10px; text-decoration: none" href="https://voicethread.com/myvoice/thread/18127453">Pressentation</a>
 	<a style="padding: 10px; text-decoration: none" href="https://www.canva.com/design/DAEj2YL2cgE/Khqs7uOOaWtwxBzyFiCICA/view?utm_content=DAEj2YL2cgE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#2">Final-Report</a>
 </div>
------------
+------------
 
 Problem statement
 ------------
