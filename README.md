@@ -14,6 +14,7 @@
 
 
 </b>
+
 Problem statement
 ------------
 Our team sort out to identify areas with low access to healthy food using metrics other than only income, vehicle ownership, and distance to the nearest grocery store that the USDA defines by including characteristics including social determinants of health. 
