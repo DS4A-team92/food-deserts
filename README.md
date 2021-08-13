@@ -4,7 +4,7 @@
 <img src="https://github.com/DS4A-team92/food-deserts/blob/main/references/images/food-desert-cir-3.png"></img>
 </p>
 
-<h4 align="center">ANALYSIS OF FOOD ACCESS & ASSOCIATED FACTORS IN COOK COUNTY, ILLINOIS</h4>
+<h3 align="center">ANALYSIS OF FOOD ACCESS & ASSOCIATED FACTORS IN COOK COUNTY, ILLINOIS</h3>
 <div align="center" style="padding: 10px">
 	<a style="text-decoration: none" href="https://foodaccessexplorer.weebly.com/"> Dashboard </a>    
 	<a style="text-decoration: none" href="https://drive.google.com/file/d/1FGcx0UshepKNWd5-axSaMNf0Vc0jEn0V/view?usp=sharing">Datafolio</a>    
